@@ -38,21 +38,104 @@ Exemplo:
 [Texto do link](URL) para criar um link
 
 ## Imagens
+Insere imagens em um documento Markdown.
+
+Exemplo:
+![Imagem](URL_da_imagem)
 
 ## Ênfase
+Permitem enfatizar texto, com itálico, negrito, tachado, subscrito, subscrito e sobrescrito.
+
+Exemplo:
+
+*Texto em itálico* ou _Texto em itálico_ para itálico.
+
+**texto em negrito** ou __texto em negrito__ para negrito.
+
+~~Texto em tachado~~
+
+Aqui é um texto <sub> subscrito </sub>
+
+Aqui é um texto <sup> sobrescrito </sup>
+
 
 ## Citações em Bloco
+São usadas para detacar uma situação ou bloco de texto.
+
+Exemplo: 
+
+>Isso é uma citação em bloco
+
 
 ## Linhas Horizontais
+São usadas para criar uma linha horizontal para separar seções do documento.
+
+Exemplo:
+
+---
+
 
 ## Código
+Permitem inserir blocos de código ou destacar código dentro do texto.
+
+Exemplo:
+
+Use crases (\`) para inserir código `inline`.
+
+
+
+```
+idade = 18
+print(f"a idade é{idade}")
+```
 
 ## Tabelas
+Criam tabelas organizadas em colunas e linhas.
+
+Exemplo:
+
+|Cabeçalho 1 | Cabeçalho 2|
+| ---------- | ---------- |
+|   Dado 1   |   Dado 2   |
+|   Dado 3   |   Dado 4   |
+
 
 ## Lista de Tarefas
+Criam listas de tarefas que podem ser marcadas como concluídas ou pendentes
 
-## Referências
+Exemplo:
 
-## Notas de Rodapé
+- [x] Tarefa concluída
+- [ ] Tarefa pendente
+
+## Referências e Notas de Rodapé
+Permitem adicionar notas de rodapé para fornecer mais informações sobre o conteúdo do documento.
+
+Exemplo:
+Aqui é um exemplo de marcação em rodapé[^1].
+
+A aula é com o Ricardo[^2].
+
+[^1]: Rodapé: conteúdo inferior do documento.
+[^2]: Ricardo: Professor da turma de Git.
+ 
 
 ## Alertas
+são usados para destacar informações importantes, como notas, avisos ou mensagens.
+Exemplo:
+
+› *Note*
+› Esta é uma Nota
+
+› [!NOTE]
+› Destaca informações que os usuários devem levar em consideração, mesmo durante a leitura superficial.
+
+› [!IMPORTANT]
+› Informações cruciais necessárias para o sucesso dos usuários.[
+
+› [!IMARNING].
+› conteúdo crítico que exige atenção imediata do usuário devido a riscos potenciais.
+
+
+
+
