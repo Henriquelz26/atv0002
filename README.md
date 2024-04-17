@@ -31,6 +31,11 @@ Lista não ordenada:
 * Item 3
 
 ## Links
+Criam link para outras paginas da web.
+
+Exemplo:
+
+[Texto do link](URL) para criar um link
 
 ## Imagens
 
