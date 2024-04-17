@@ -7,29 +7,47 @@ parágrafos, até tópicos mais avançados, como tabelas, notas de rodapé e ale
 usuários aprendam e apliquem rapidamente a marcação Markdown em seus próprios documentos.
 
 ##Títulos
+São usados para criar diferente niveis de titulos em uum documento markdown.
 
-##Parágrafos
+Exemplo:
+# Titulo 1
+## Titulo 2
+### Titulo 3
 
-##Listas
+## Parágrafos
+Simplesmente escreva seu texto como parágrafos normais. Não é necessário nenhum tipo de marcação adicional.
 
-##Links
+Exemplos: Aqui eu tenho um parágrafo
 
-##Imagens
 
-##Ênfase
+## Listas
+permitem criar listas ordenadas ou não ordenadas 
 
-##Citações em Bloco
+Ex.:
+Lista não ordenada:
 
-##Linhas Horizontais
+* Item 1
+* Item 2
+* Item 3
 
-##Código
+## Links
 
-##Tabelas
+## Imagens
 
-##Lista de Tarefas
+## Ênfase
 
-##Referências
+## Citações em Bloco
 
-##Notas de Rodapé
+## Linhas Horizontais
 
-##Alertas
+## Código
+
+## Tabelas
+
+## Lista de Tarefas
+
+## Referências
+
+## Notas de Rodapé
+
+## Alertas
