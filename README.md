@@ -35,7 +35,7 @@ Criam link para outras paginas da web.
 
 Exemplo:
 
-[Texto do link]([URL](https://www.correiobraziliense.com.br/brasil/2021/07/4940046-youtuber-raulzito-e-preso-acusado-de-estupro-de-vulneravel.html)) para criar um link
+[Link]([URL](https://www.correiobraziliense.com.br/brasil/2021/07/4940046-youtuber-raulzito-e-preso-acusado-de-estupro-de-vulneravel.html)) para criar um link
 
 ## Imagens
 Insere imagens em um documento Markdown.
